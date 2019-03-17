@@ -1,5 +1,5 @@
 # Spatial Stegnography
-This project is for spatial stegnography.Stegnography is a process of hiding a data (image or any other data) within an image.In this project spatial stegnography technique is used i.e. image is hidden at the last bit plane of the carrying image.
+This project is for spatial stegnography. Stegnography is a process of hiding a data (image or any other data) within an image. In this project spatial stegnography technique is used i.e. image is hidden at the last bit plane of the carrying image.
 
 
 ## Data Images
